@@ -1,0 +1,9 @@
+
+A                                      UNIQUE                  
+A          R STOKREC                                           
+A            URUN_ID       10  0       COLHDG('URUN ID')       
+A            URUN_ADI      50A         COLHDG('URUN ADÝ')      
+A            MEVCUTSTOK    10  0       COLHDG('MEVCUT STOK')   
+A            KRITIKSEV     10  0       COLHDG('KRÝTÝK SEVÝYE') 
+ *                                                             
+A          K URUN_ID                                           
