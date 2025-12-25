@@ -22,7 +22,7 @@
      C                                     'xxx@xxx.com' +             
      C                                     ''')) SUBJECT(''Stok Durumu'') ' + 
      C                                     'NOTE(''' + %TRIM(Govde) + ''')'   
-     C                   EVAL      KomutLen = %LEN(%TRIM(Komut))              
+     C                   EVAL      KomutLen = %LEN(%TRIM(Komut))               
      C                   CALLP     RunCmd(Komut : KomutLen)                   
      C                   ENDIF                                                
                                                                              
